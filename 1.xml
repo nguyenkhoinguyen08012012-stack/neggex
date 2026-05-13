@@ -46,7 +46,7 @@
 /* ============================================================
    CONFIG
    ============================================================ */
-const BUILD_URL  = "https://cdn.jsdelivr.net/gh/gulamen/neggex@main/Build";
+const BUILD_URL  = "https://cdn.jsdelivr.net/gh/gulamen/neggex@fd34567/Build";
 const DATA_FILE  = "1.data.br";
 const WASM_FILE  = "1.wasm.br";
 const DATA_PARTS = 3;
